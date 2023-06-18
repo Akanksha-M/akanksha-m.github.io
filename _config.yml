@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Akanksha Makkar"
   avatar           : "/assets/profilepic.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Unleashing the power of data while exploring nature's wonders – a data scientist's journey fueled by curiosity, dedication, and the thrill of outdoor adventures."
+  bio              : 'Data scientist by day, adventurer by nature.' #"Unleashing the power of data while exploring nature's wonders – a data scientist's journey fueled by curiosity, dedication, and the thrill of outdoor adventures."
   location         : "Uppsala, Sweden"
   email            : "akanksha.makkar@outlook.com"
   links: 
